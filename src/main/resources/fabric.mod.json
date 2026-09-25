@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"auroraclient","version":"1.0.0","name":"Aurora Client","environment":"client","entrypoints":{"client":["dev.aurora.client.AuroraClient"]},"depends":{"fabricloader":">=0.16.0","minecraft":"1.21.11","java":">=21","fabric-api":"*"}}
